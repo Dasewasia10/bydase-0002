@@ -1,0 +1,86 @@
+:flag_id:Command di bawah ini hanya dapat dipakai oleh Admin dan Modder, juga beberapa Member dengan kriteria tertentu. Gunakan dengan bijak.
+:flag_gb:Command below can only be used by admins and modders, as well as some members with certain criteria. Use wisely.
+
+//Else//
+[apply]
+:flag_id:Command untuk memberikan pertanyaan kepada user baru yang ingin bergabung ke dalam server Dase's Place dan mendapatkan role Member. Data tersimpan ke dalam folder [data member].
+:flag_gb:Command to ask questions to new users who want to join the Dase's Place server and get the Member role. The data is stored in the [data member] folder.
+
+[self]
+:flag_id:Memanggil semua bantuan di sini.
+:flag_gb:Calling all help here.
+
+//Admin Command only//
+[matikan]
+:flag_id:Hanya untuk mengumumkan kepada seluruh Member untuk mematikan bot.
+:flag_gb:Just to announce to all Members to turn off the bot.
+
+[shutdown]
+:flag_id:Mematikan bot.
+:flag_gb:Turn off the bot.
+
+[restart]
+:flag_id:Memulai kembali bot.
+:flag_gb:Restart the bot.
+
+[kick]
+:flag_id:Menendang Member dari server.
+:flag_gb:Kick Member from the server.
+
+[mute]
+:flag_id:Melakukan mute kepada Member selama 3 hari.
+:flag_gb:Mute Member for 3 days.
+
+[ban]
+:flag_id:Melakukan ban terhadap Member.
+:flag_gb:Banning Member.
+
+[unban]
+:flag_id:Melakukan unban terhadap Member.
+:flag_gb:Unbanning Member.
+
+[snipe]
+:flag_id:Mengecek pesan terakhir yang terhapus.
+:flag_gb:Checks the last deleted message.
+
+[allmembers]
+:flag_id:Mengecek semua pesan dan server yang terdapat bot ByDase di sana.
+:flag_gb:Checks all messages and servers that have ByDase bots there.
+
+[messagehistory]
+:flag_id:Menyimpan seluruh pesan pada suatu channel ke dalam file txt. Pesan tersimpan ke dalam folder [message history].
+:flag_gb:Save all messages on a channel into a txt file. Messages are stored in the [message history] folder.
+
+//Modder Command too//
+[test]
+:flag_id:Melakukan tes untuk mengecek bot ByDase aktif atau tidak.
+:flag_gb:Do a test to check the ByDase bot is active or not.
+
+[word]
+:flag_id:Kata-kata yang dideteksi oleh bot ByDase dalam versi buruk maupun yang diapresiasi.
+:flag_gb:Words detected by the ByDase bot in both bad and appreciated versions.
+
+[giveaway]
+:flag_id:Mengadakan giveaway.
+:flag_gb:Hold a giveaway.
+
+[reactrole]
+:flag_id:Mengatur sebuah pesan agar dapat dipasangkan reaction roles.
+:flag_gb:Set up a message to be assigned reaction roles.
+
+[giverole]
+:flag_id:Command untuk memberikan role kepada user. Gunakan dengan bijak!
+:flag_gb:Command to assign a role to the user. Use wisely!
+
+[removerole]
+:flag_id:Command untuk melepaskan role kepada user. Gunakan dengan bijak!
+:flag_gb:Command to remove a role from the user. Use wisely!
+
+[cekmember]
+:flag_id:Mengetahui jumlah Member pada server Dase's Place.
+:flag_gb:Knowing the number of Members on the Dase's Place server.
+
+[cekbot]
+:flag_id:Mengetahui jumlah Utility pada server Dase's Place.
+:flag_gb:Knowing the number of Utilities on the Dase's Place server.
+

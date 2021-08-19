@@ -1,0 +1,20 @@
+:flag_id: Kartu yang digunakan masih dalam bahasa Indonesia. Dase masih dalam proses untuk membuat versi inggrisnya.
+Penjelasan untuk setiap kartu akan ditambahkan di dalam beberapa waktu ke depan.
+:flag_gb: The card used is still in Indonesian. Dase is still in the process of making an English version.
+Explanations for each card will be added in the near future.
+
+[wcardlist]
+:flag_id:Daftar nama kartu yang tersedia pada game Werewolf versi Dase.
+:flag_gb:List of card names available in the Dase version of the Werewolf game.
+
+[wend]
+:flag_id:Menyelesaikan game dan mencabut role yang diperuntukan kepada Narator/Moderator game.
+:flag_gb:Complete the game and remove the role assigned to the Narrator/Moderator game.
+
+[wmod]
+:flag_id:Melakukan polling untuk mendapatkan role yang diperuntukan kepada Narator/Moderator game.
+:flag_gb:Conduct a poll to get the role assigned to the Narrator/Moderator game.
+
+[wcard {card_name}]
+:flag_id:Narator/Moderator game memberikan kartu yang telah ditentukan kepada pemain.
+:flag_gb:The Narrator/Moderator of the game gives the player a pre-determined card.

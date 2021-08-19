@@ -1,0 +1,31 @@
+[ping]
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+[minna]
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+
+[say]
+:flag_id: Membuat ByDase mengucapkan kalimat yang kau ketik.
+:flag_gb: Make ByDase say the sentence you type.
+
+[hello]
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+[motivation]
+:flag_id: Memberikanmu motivasi.
+:flag_gb: Giving you motivation.
+
+[poll]
+:flag_id: Membuat polling dengan mengetikkan pesan.
+:flag_gb: Create a poll by typing a message.
+
+[gif]
+:flag_id: ByDase ngasih gif random. Beri kata kunci tertentu untuk mendapatkan jenis gif yang diinginkan.
+:flag_gb: ByDase gives random gifs. Give certain keywords to get the desired type of gif.
+
+[dm]
+:flag_id: ByDase ngirimkan pesanmu via DM ke user tertentu.
+:flag_gb: ByDase sends your message via DM to a specific user.

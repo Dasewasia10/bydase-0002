@@ -1,0 +1,9 @@
+Flask==1.1.2
+python-dotenv==0.18.0 # IMPORTANT
+tweepy==3.10.0 # IMPORTANT
+
+
+requests~=2.24.0
+discordutils~=1.3.4
+tracemoepy~=4.1
+aiofiles==0.7.0

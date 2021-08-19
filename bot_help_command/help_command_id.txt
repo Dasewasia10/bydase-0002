@@ -1,0 +1,68 @@
+:flag_id:Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.:flag_id:
+
+//Help Command//
+[help list]
+Daftar seluruh command yang tersedia.
+
+[help all]
+Command untuk memanggil panduan sederhana ini.
+
+[help id]
+Command untuk memanggil panduan sederhana ini dalam bahasa indonesia.
+
+//Member Command//
+[hello]
+Bot akan menyapamu.
+
+[ping]
+Mengecek ping milikmu saat ini.
+
+[say]
+Membuat ByDase mengucapkan kalimat yang kau ketik.
+
+[minna]
+Menanyakan kabar seluruh penghuni server.
+
+[poll]
+Membuat polling dengan mengetikkan pesan.
+
+[motivation]
+Memberikanmu motivasi.
+
+[gif]
+ByDase ngasih gif random. Beri kata kunci tertentu untuk mendapatkan jenis gif yang diinginkan.
+
+[dm]
+ByDase ngirimkan pesanmu via DM ke user tertentu.
+
+//Anilist Command//
+[aniuser]
+User yang berada dalam database Anilist.
+
+[anime]
+Anime yang berada dalam database Anilist.
+
+[manga]
+Manga yang berada dalam database Anilist.
+
+[staff]
+Staff yang berada dalam database Anilist.
+
+[studio]
+Studio yang berada dalam database Anilist.
+
+[character]
+Karakter anime yang berada dalam database Anilist.
+
+//Werewolf Command//
+[wcardlist]
+Daftar nama kartu yang tersedia pada game Werewolf versi Dase.
+
+[wend]
+Menyelesaikan game dan mencabut role yang diperuntukan kepada Narator/Moderator game.
+
+[wmod]
+Melakukan polling untuk mendapatkan role yang diperuntukan kepada Narator/Moderator game.
+
+[wcard {card_name}]
+Narator/Moderator game memberikan kartu yang telah ditentukan kepada pemain.

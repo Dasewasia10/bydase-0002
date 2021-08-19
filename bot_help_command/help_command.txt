@@ -1,0 +1,87 @@
+:flag_id: Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.
+:flag_gb: Oh, you don't know how to used this bot? That's okay, I will tell you some simple commands here.
+=========================================================
+
+//Help Command//
+[help list]
+:flag_id: Daftar seluruh command yang tersedia.
+:flag_gb:List of all available command.
+
+[help all]
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
+
+//Member Command//
+[hello]
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+[ping]
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+[say]
+:flag_id: Membuat ByDase mengucapkan kalimat yang kau ketik.
+:flag_gb: Make ByDase say the sentence you type.
+
+[minna]
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+
+[motivation]
+:flag_id: Memberikanmu motivasi.
+:flag_gb: Giving you motivation.
+
+[poll]
+:flag_id: Membuat polling dengan mengetikkan pesan.
+:flag_gb: Create a poll by typing a message.
+
+[gif]
+:flag_id: ByDase ngasih gif random. Beri kata kunci tertentu untuk mendapatkan jenis gif yang diinginkan.
+:flag_gb: ByDase gives random gifs. Give certain keywords to get the desired type of gif.
+
+[dm]
+:flag_id: ByDase ngirimkan pesanmu via DM ke user tertentu.
+:flag_gb: ByDase sends your message via DM to a specific user.
+
+//Anilist Command//
+[aniuser]
+:flag_id: User yang berada dalam database Anilist.
+:flag_gb: Users residing in the Anilist database.
+
+[anime]
+:flag_id: Anime yang berada dalam database Anilist.
+:flag_gb: Anime residing in the Anilist database.
+
+[manga]
+:flag_id: Manga yang berada dalam database Anilist.
+:flag_gb: Manga residing in the Anilist database.
+
+[staff]
+:flag_id: Staff yang berada dalam database Anilist.
+:flag_gb: Staff residing in the Anilist database.
+
+[studio]
+:flag_id: Studio yang berada dalam database Anilist.
+:flag_gb: Studios residing in the Anilist database.
+
+[character]
+:flag_id: Karakter anime yang berada dalam database Anilist.
+:flag_gb: Anime characters residing in the Anilist database.
+
+//Werewolf Command//
+[wcardlist]
+:flag_id:Daftar nama kartu yang tersedia pada game Werewolf versi Dase.
+:flag_gb:List of card names available in the Dase version of the Werewolf game.
+
+[wend]
+:flag_id:Menyelesaikan game dan mencabut role yang diperuntukan kepada Narator/Moderator game.
+:flag_gb:Complete the game and remove the role assigned to the Narrator/Moderator game.
+
+[wmod]
+:flag_id:Melakukan polling untuk mendapatkan role yang diperuntukan kepada Narator/Moderator game.
+:flag_gb:Conduct a poll to get the role assigned to the Narrator/Moderator game.
+
+[wcard {card_name}]
+:flag_id:Narator/Moderator game memberikan kartu yang telah ditentukan kepada pemain.
+:flag_gb:The Narrator/Moderator of the game gives the player a pre-determined card.

@@ -1,0 +1,296 @@
+2021-08-18 11:44:14.070000 - Dase: dt!mh
+2021-08-18 11:43:26.246000 - Dase: dt!mh
+2021-08-18 11:41:33.978000 - Dase: dt!mh
+2021-08-18 11:36:05.116000 - Dase: dt!mh
+2021-08-18 10:59:58.646000 - Dase: dt!allmembers
+2021-08-18 10:58:23.446000 - Dase: dt!allmembers
+2021-08-18 10:41:54.830000 - Dase: dt!allmembers
+2021-08-18 10:36:56.110000 - Dase: dt!allmembers
+2021-08-18 10:36:45.096000 - Dase: dt!allmember
+2021-08-18 10:35:29.210000 - Dase: dt!cekmember
+2021-08-18 10:34:20.802000 - Dase: dt!cekmember
+2021-08-18 10:24:18.791000 - Dase: dt!cekmember
+2021-08-18 10:15:22.094000 - ByDase 2: @@Dase now not have @◉ Ability of Music role.
+2021-08-18 10:15:21.216000 - Dase: dt!removerole @◉ Ability of Music @Dase
+2021-08-18 10:13:43.712000 - ByDase 2: @@Dase now have ◉ Ability of Music role.
+2021-08-18 10:13:43.023000 - Dase: dt!giverole @◉ Ability of Music @Dase
+2021-08-18 10:09:42.414000 - Dase: dt!giverole @◉ Ability of Music @ByDase 2
+2021-08-18 10:05:04.942000 - ByDase 2: Give the @◉ Ability of Music to @ByDase 2#7949?
+2021-08-18 10:05:04.361000 - Dase: dt!giverole @◉ Ability of Music @ByDase 2
+2021-08-18 10:00:25.929000 - ByDase 2: Give the @◉ Ability of Music to @ByDase 2#7949?
+2021-08-18 10:00:25.522000 - Dase: dt!giverole @◉ Ability of Music @ByDase 2
+2021-08-17 14:27:11.030000 - Dase: dt!wcl dm
+2021-08-17 14:24:48.007000 - Dase: dt!wcl dm
+2021-08-17 14:23:10.364000 - Dase: dt!wcl dm
+2021-08-17 14:21:30.364000 - Dase: dt!wcl dm
+2021-08-17 13:56:31.477000 - Dase: dt!wcl dm
+2021-08-17 13:56:27.754000 - Dase: for y in column_two_des:
+2021-08-17 13:55:19.017000 - Dase: dt!wcl dm
+2021-08-17 13:34:16.539000 - Dase: ajg
+2021-08-17 13:34:07.523000 - ByDase 2: TaU aKu
+2021-08-17 13:34:07.166000 - Dase: tau aku
+2021-08-17 13:32:45.163000 - ByDase 2: TaU aKu
+2021-08-17 13:32:43.992000 - ByDase 2: TaU aKu
+2021-08-17 13:32:43.564000 - ByDase 2: TaU aKu
+2021-08-17 13:32:42.649000 - ByDase 2: TaU aKu
+2021-08-17 13:32:42.336000 - ByDase 2: TaU aKu
+2021-08-17 13:32:38.468000 - ByDase 2: TaU aKu
+2021-08-17 13:32:38.195000 - ByDase 2: TaU aKu
+2021-08-17 13:32:37.832000 - ByDase 2: TaU aKu
+2021-08-17 13:32:37.262000 - ByDase 2: TaU aKu
+2021-08-17 13:32:36.801000 - ByDase 2: TaU aKu
+2021-08-17 13:32:36.456000 - Dase: tau aku
+2021-08-17 13:26:15.529000 - Dase: ajg
+2021-08-17 13:23:34.111000 - Dase: dt!wcl dm
+2021-08-17 13:12:12.627000 - Dase: dt!wcl dm
+2021-08-17 13:08:12.219000 - Dase: dt!wcl dm
+2021-08-17 13:07:16.511000 - ByDase 2: 
+2021-08-17 13:07:09.686000 - Dase: dt!wcl dm
+2021-08-17 13:06:14.023000 - Dase: dt!wcl dm
+2021-08-17 13:00:38.479000 - Dase: dt!wcl dm
+2021-08-17 12:39:37.219000 - Dase: dt!wcl dm
+2021-08-17 12:36:58.676000 - ByDase 2: 
+2021-08-17 12:36:58.247000 - Dase: dt!wcl here
+2021-08-17 12:35:56.705000 - Dase: dt!wcl
+2021-08-17 12:15:46.821000 - Dase: dt!wcard @Dase monke
+2021-08-17 12:03:44.635000 - Dase: dt!wcard werewolf
+2021-08-17 12:00:54.287000 - Dase: dt!wend @Dase
+2021-08-17 12:00:42.315000 - Dase: dt!wend
+2021-08-17 12:00:28.952000 - ByDase 2: Congrats @Dase. I'll give you the <@​&877064462429990983> role.
+2021-08-17 12:00:16.510000 - ByDase 2: :flag_id:Pemilihan Narator!
+:flag_gb:Narrator Election!
+2021-08-17 12:00:15.987000 - Dase: dt!wmod
+2021-08-17 06:21:58.826000 - Dase: dt!wend @Dase
+2021-08-17 06:18:48.475000 - Dase: dt!wend @◉ Narrator of Werewolf @Dase
+2021-08-17 06:12:57.936000 - Dase: dt!wend @Dase
+2021-08-17 06:11:53.757000 - Dase: dt!wend @Dase
+2021-08-17 06:11:30.641000 - Dase: dt!wend
+2021-08-17 06:11:06.343000 - ByDase 2: Congrats @Dase. I'll give you the ◉ Narrator of Werewolf role.
+2021-08-17 06:10:54.961000 - ByDase 2: :flag_id:Pemilihan Narator!
+:flag_gb:Narrator Election!
+2021-08-17 06:10:54.461000 - Dase: dt!wmod
+2021-08-17 06:07:05.245000 - Dase: dt!wmod
+2021-08-17 06:02:58.344000 - ByDase 2: Congrats @Dase. I'll give you the ◉ Narrator of Werewolf role.
+2021-08-17 06:02:46.573000 - ByDase 2: :flag_id:Pemilihan Narator!
+:flag_gb:Narrator Election!
+2021-08-17 06:02:46.122000 - Dase: dt!wmod
+2021-08-17 06:00:57.071000 - ByDase 2: :flag_id:Pemilihan Narator!
+:flag_gb:Narrator Election!
+2021-08-17 06:00:56.740000 - Dase: dt!wmod
+2021-08-17 06:00:05.013000 - Dase: dt!wmod
+2021-08-17 03:49:24.506000 - Dase: dt!w_c @Dase alpha werewolf
+2021-08-17 03:44:03.085000 - Dase: dt!w_c @Dase abstain
+2021-08-17 03:43:41.474000 - Dase: dt!w_c @Dase werewolf
+2021-08-17 03:43:30.330000 - ByDase 2: {'werewolf': <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Werewolf.png'>, 'abstain': <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Abstain.png'>, 'alpha werewolf': <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Alpha Werewolf.png'>, 'apprentice seer': <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Apprentice Seer.png'>}
+2021-08-17 03:43:29.802000 - Dase: dt!test_w
+2021-08-17 03:38:50.963000 - Dase: dt!w_c @Dase werewolf
+2021-08-17 03:30:44.209000 - ByDase 2: dict_values([<_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Werewolf.png'>, <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Abstain.png'>, <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Alpha Werewolf.png'>, <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Apprentice Seer.png'>])
+2021-08-17 03:30:43.691000 - Dase: dt!test_w
+2021-08-17 03:30:36.354000 - Dase: dt!test_2
+2021-08-17 03:26:49.936000 - ByDase 2: dict_items([('werewolf', <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Werewolf.png'>), ('abstain', <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Abstain.png'>), ('alpha werewolf', <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Alpha Werewolf.png'>), ('apprentice seer', <_io.BufferedReader name='simple_werewolf/Kartu Werewolf/Apprentice Seer.png'>)])
+2021-08-17 03:26:49.712000 - Dase: dt!test_w
+2021-08-17 03:18:29.890000 - Dase: dt!w_s @Dase werewolf
+2021-08-17 02:23:55.157000 - Dase: dt!w_s @Dase werewolf
+2021-08-17 02:20:45.638000 - Dase: dt!w_s @Dase monke
+2021-08-17 02:19:40.234000 - Dase: dt!w_s @Dase abstain
+2021-08-17 02:19:07.610000 - Dase: dt!w_s @Dase werewolf
+2021-08-16 18:11:36.891000 - Dase: dt!w_s @Dase werewolf
+2021-08-16 18:00:16.062000 - Dase: dt!w_s @Dase werewolf
+2021-08-16 17:57:46.473000 - Dase: dt!w_s @Dase werewolf
+2021-08-16 17:57:23.522000 - Dase: dt!w_s @Dase Werewolf
+2021-08-16 17:43:36.547000 - ByDase 2: <generator object Path.glob at 0x0000020F140454A0>
+2021-08-16 17:43:36.203000 - Dase: dt!w_t
+2021-08-16 16:47:33.709000 - ByDase 2: <generator object Path.glob at 0x000001BEABB664A0>
+2021-08-16 16:47:33.442000 - Dase: dt!w_t
+2021-08-16 16:46:34.694000 - Dase: dt!w_t
+2021-08-16 16:45:01.560000 - Dase: dt!w_start @Dase Witch
+2021-08-16 16:42:20.255000 - Dase: dt!w_start @Dase Witch
+2021-08-16 16:41:51.991000 - Dase: dt!w_start @Dase Werewolf
+2021-08-16 16:40:45.373000 - Dase: dt!w_start @Dase Werewolf
+2021-08-16 15:53:26.644000 - ByDase 2: :flag_id:Kartu telah dikirim.
+:flag_gb:Card has been delivered.
+2021-08-16 15:53:25.809000 - Dase: dt!makar @Dase
+2021-08-16 15:52:36.317000 - Dase: dt!makar @Dase
+2021-08-16 15:50:10.099000 - Dase: dt!makar @Dase
+2021-08-16 15:47:29.581000 - ByDase 2: 
+2021-08-16 15:47:25.635000 - Dase: dt!makar
+2021-08-16 15:46:42.589000 - Dase: dt!makar
+2021-08-16 15:43:59.601000 - Dase: dt!apply id
+2021-08-16 03:10:07.903000 - ByDase 2: 
+2021-08-16 03:10:06.650000 - Dase: dt!gif vegetable
+2021-08-16 01:58:17.431000 - ByDase 2: https://tenor.com/view/xqc-gif-12944796
+2021-08-16 01:58:17.020000 - ByDase 2: 
+2021-08-16 01:58:16.462000 - Dase: dt!mot
+2021-08-16 01:57:16.545000 - ByDase 2: 
+2021-08-16 01:57:16.221000 - Dase: dt!poll You are gay?
+2021-08-16 01:54:00.807000 - Dase: dt!test
+2021-08-16 01:26:17.125000 - Hydra: 
+2021-08-16 01:26:17.016000 - Dase: .help
+2021-08-16 01:26:13.741000 - Dase: a
+2021-08-16 01:26:01.267000 - Dase: d!help all
+2021-08-16 01:25:35.811000 - Dase: d!test
+2021-08-15 13:09:52.158000 - Dase: dt!snipe
+2021-08-15 13:09:47.208000 - Dase: dt!test
+2021-08-15 12:03:48.556000 - Dase: dt!test
+2021-08-15 06:12:14.376000 - ByDase 2: Couldn't find a message to snipe!
+2021-08-15 06:12:13.695000 - Dase: dt!snipe
+2021-08-15 05:52:54.592000 - Dase: kontol
+2021-08-14 08:34:12.182000 - ByDase 2: 
+2021-08-14 08:34:11.681000 - Dase: sd!help search
+2021-08-14 08:33:30.488000 - ByDase 2: 
+2021-08-14 08:33:29.848000 - Dase: sd!help list
+2021-08-14 08:32:53.767000 - Dase: sd!help all
+2021-08-14 08:32:43.399000 - Dase: dt!help all
+2021-08-14 08:18:12.975000 - ByDase 2: 
+2021-08-14 08:18:05.018000 - ByDase 2: Searching for song, this may take a few seconds.
+2021-08-14 08:18:04.661000 - Dase: dt!search hikaru nara
+2021-08-14 08:17:53.714000 - Dase: dt!join
+2021-08-14 08:17:43.723000 - Dase: dt!j
+2021-08-14 03:14:51.116000 - ByDase 2: 
+2021-08-14 03:14:50.574000 - Dase: dt!gif anime
+2021-08-14 03:14:40.574000 - ByDase 2: 
+2021-08-14 03:14:39.735000 - Dase: dt!gif anime
+2021-08-14 03:14:18.427000 - ByDase 2: 
+2021-08-14 03:14:17.472000 - Dase: dt!gif random
+2021-08-14 03:14:06.218000 - ByDase 2: 
+2021-08-14 03:14:05.270000 - Dase: dt!gif cat
+2021-08-14 03:07:23.393000 - Dase: dt!help dm id
+2021-08-14 03:03:46.954000 - Dase: dt!help dm
+2021-08-14 03:00:22.304000 - Dase: dt!help dm
+2021-08-14 02:57:55.931000 - Dase: dt!help dm
+2021-08-14 02:55:40.112000 - Dase: dt!help dm
+2021-08-14 02:53:05.496000 - Dase: dt!help dm
+2021-08-14 02:51:07.421000 - Dase: dt!help dm
+2021-08-14 02:50:05.945000 - Dase: dt!help dm
+2021-08-14 02:48:50.323000 - ByDase 2: 
+2021-08-14 02:48:49.842000 - Dase: dt!help all
+2021-08-14 02:47:30.436000 - Dase: dt!help id
+2021-08-14 02:46:52.293000 - Dase: dt!help all
+2021-08-13 17:53:17.873000 - Dase: dt!dm @forAmber Hallo~!
+2021-08-13 17:51:38.153000 - Dase: dt!dm
+2021-08-13 17:37:11.564000 - ByDase 2: 
+2021-08-13 17:37:11.244000 - Dase: dt!mot
+2021-08-13 17:36:47.554000 - ByDase 2: 
+2021-08-13 17:36:47.096000 - Dase: dt!paginate
+2021-08-13 17:36:18.703000 - ByDase 2: 
+2021-08-13 17:36:18.328000 - Dase: dt!mot
+2021-08-13 17:34:08.294000 - ByDase 2: 
+2021-08-13 17:34:07.162000 - Dase: dt!gif cat
+2021-08-13 17:32:16.020000 - Dase: dt!gif cat
+2021-08-13 17:31:26.991000 - ByDase 2: Your ping right now is 296ms
+API's ping right now is 531ms
+2021-08-13 17:31:26.421000 - Dase: dt!ping
+2021-08-13 17:31:01.458000 - ByDase 2: Yow
+2021-08-13 17:27:28.327000 - ByDase 2: https://tenor.com/view/love-you-are-amazing-you-are-beautiful-special-motivation-gif-15272039
+2021-08-13 17:27:27.270000 - ByDase 2: 
+2021-08-13 17:27:26.947000 - Dase: dt!mot
+2021-08-13 17:25:25.020000 - Dase: dt!mot
+2021-08-13 17:23:15.360000 - Dase: dt!rr 🇮🇩  🇬🇧  @◉ Warga Indo @◉ Foreign  Reaction Roles for Warga Indo For Foreign
+2021-08-13 17:22:52.493000 - ByDase 2: 
+2021-08-13 17:22:52.057000 - Dase: dt!rr 🇮🇩 @◉ Warga Indo Reaction Roles for Warga Indo 🇬🇧  @◉ Foreign For Foreign
+2021-08-13 17:21:14.837000 - ByDase 2: 
+2021-08-13 17:21:14.457000 - Dase: dt!poll Apakah Hitler, mending dihidupkan kembali, atau tidak?
+2021-08-13 17:17:33.698000 - Dase: dt!gif random
+2021-08-13 17:14:11.551000 - Dase: dt!gif random
+2021-08-13 17:05:45.461000 - ByDase 2: 
+2021-08-13 17:05:45.023000 - Dase: dt!rr 🇮🇩 @◉ Warga Indo Reaction Roles for Warga Indo
+2021-08-13 17:05:24.071000 - Dase: dt!rr Ini 🇮🇩 @◉ Warga Indo Reaction Roles for Warga Indo
+2021-08-13 17:04:43.793000 - Dase: dt!rr ◉ Warga Indo Reaction Roles for Warga Indo
+2021-08-13 17:04:23.163000 - Dase: dt!rr Ini ◉ Warga Indo Reaction Roles for Warga Indo
+2021-08-13 17:03:03.455000 - Dase: dt!rr Ini Reaction Roles for Testing only
+2021-08-13 17:01:59.638000 - Dase: dt!rr Ini Reaction Roles for Testing only
+2021-08-13 17:00:32.338000 - Dase: dt!test
+2021-08-13 11:12:29.309000 - Dase: md!dc
+2021-08-13 11:11:57.995000 - Dase: md!play  https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-13 11:11:40.941000 - Dase: md!j
+2021-08-13 11:11:36.229000 - Dase: dt!j
+2021-08-09 14:39:20.581000 - Dase: dt!play yoasobi
+2021-08-09 14:35:30.449000 - Dase: dt!play yoasobi
+2021-08-09 14:32:33.598000 - Dase: dt!play yoasobi
+2021-08-09 14:32:26.123000 - Dase: dt!j
+2021-08-09 14:31:25.323000 - Dase: dt!play yoasobi
+2021-08-09 14:31:09.942000 - Dase: dt!j
+2021-08-09 14:19:47.328000 - Dase: dt!play hikaru nara
+2021-08-09 14:19:42.635000 - Dase: dt!j
+2021-08-09 14:18:05.756000 - Dase: dt!play hikaru nara
+2021-08-09 14:18:00.485000 - Dase: dt!j
+2021-08-09 14:15:50.911000 - Dase: dt!play hikaru nara
+2021-08-09 14:15:38.735000 - Dase: dt!j
+2021-08-09 14:04:19.624000 - Dase: dt!play hikaru nara
+2021-08-09 14:04:13.535000 - Dase: dt!j
+2021-08-09 14:02:57.543000 - Dase: dt!play hikaru nara
+2021-08-09 14:02:43.163000 - Dase: dt!j
+2021-08-09 14:02:09.499000 - Dase: dt!play hikaru nara
+2021-08-09 14:02:02.662000 - Dase: dt!j
+2021-08-09 13:45:28.051000 - Dase: dt!play hikaru nara
+2021-08-09 13:45:16.982000 - Dase: dt!j
+2021-08-09 13:43:48.013000 - ByDase 2: 
+2021-08-09 13:43:42.955000 - Dase: dt!play hikaru nara
+2021-08-09 13:43:25.626000 - Dase: dt!j
+2021-08-09 13:38:34.348000 - ByDase 2: 
+2021-08-09 13:38:27.143000 - Dase: dt!play hikaru nara
+2021-08-09 13:38:16.300000 - Dase: dt!j
+2021-08-09 13:37:43.441000 - Dase: dt!play hikaru nara
+2021-08-09 13:37:37.605000 - Dase: dt!j
+2021-08-09 13:36:04.044000 - ByDase 2: 
+2021-08-09 13:35:59.567000 - Dase: dt!play hikaru nara
+2021-08-09 13:35:50.445000 - Dase: dt!j
+2021-08-09 13:35:45.026000 - Dase: dt!J
+2021-08-09 13:34:43.311000 - Dase: dt!n
+2021-08-09 13:31:38.656000 - ByDase 2: 
+2021-08-09 13:31:38.195000 - Dase: dt!q
+2021-08-09 13:30:17.644000 - ByDase 2: 
+2021-08-09 13:30:13.148000 - Dase: dt!play yoasobi monster
+2021-08-09 13:30:05.614000 - Dase: dt!j
+2021-08-09 13:28:07.021000 - Dase: dt!play yoasobi monster
+2021-08-09 13:27:52.751000 - Dase: dt!j yoasobi
+2021-08-09 13:27:48.197000 - Dase: dt!j
+2021-08-09 13:27:41.794000 - Dase: md!dc
+2021-08-09 13:26:50.388000 - Dase: md!j
+2021-08-09 13:26:38.007000 - Dase: md!j
+2021-08-09 13:26:15.348000 - Dase: dt!j
+2021-08-09 13:25:44.532000 - Dase: dt!play yoasobi
+2021-08-09 13:25:37.832000 - Dase: dt!j
+2021-08-09 13:24:29.316000 - Dase: dt!stop
+2021-08-09 13:24:13.786000 - ByDase 2: 
+2021-08-09 13:24:09.352000 - Dase: dt!play hikaru nara
+2021-08-09 13:23:58.627000 - Dase: dt!j
+2021-08-09 13:23:54.952000 - Dase: dt!dc
+2021-08-09 13:23:08.935000 - Dase: dt!play hikaru nara
+2021-08-09 13:23:02.418000 - Dase: dt!j
+2021-08-09 13:20:12.508000 - Dase: dt!play https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-09 13:20:06.326000 - Dase: dt!j
+2021-08-09 13:18:30.001000 - Dase: dt!j
+2021-08-09 13:17:46.431000 - Dase: dt!j
+2021-08-09 13:16:08.992000 - Dase: dt!play https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-09 13:14:55.456000 - Dase: dt!play https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-09 13:12:17.139000 - Dase: dt!play https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-09 13:11:58.061000 - Dase: dt!play https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-09 13:11:16.271000 - Dase: dt!play hikaru nara
+2021-08-09 13:08:32.060000 - Dase: dt!play hikaru nara
+2021-08-09 13:08:17.526000 - Dase: dt!j
+2021-08-09 10:36:45.485000 - Dase: dt!dc
+2021-08-09 10:35:44.415000 - Dase: dt!stop
+2021-08-09 10:33:02.981000 - ByDase 2: 
+2021-08-09 10:33:02.655000 - Dase: dt!q
+2021-08-09 10:32:49.305000 - ByDase 2: Song added to the queue
+2021-08-09 10:32:46.105000 - Dase: dt!play https://www.youtube.com/watch?v=sAuEeM_6zpk
+2021-08-09 10:32:06.809000 - ByDase 2: 
+2021-08-09 10:32:06.576000 - Dase: dt!q
+2021-08-09 10:31:52.051000 - ByDase 2: Song added to the queue
+2021-08-09 10:31:47.888000 - Dase: dt!play https://www.youtube.com/watch?v=Eoe5IZHbarQ
+2021-08-09 10:31:42.990000 - Dase: dt!j
+2021-08-07 06:05:24.113000 - ByDase 2: ```
+General commands:
+/help - displays all the available commands
+/clear amount - will delete the past messages with the amount specified
+
+Image commands:
+/search <keywords> - will change the search to the keyword
+/get - will get the image based on the current search
+
+Music commands:
+/p <keywords> - finds the song on youtube and plays it in your current channel
+/q - displays the current music queue
+/skip - skips the current song being played
+```

@@ -1,0 +1,26 @@
+:flag_id: Command ini masih menggunakan bahasa Inggris. Dase masih mencari cara agar bisa digunakan dalam bahasa Indonesia.
+:flag_gb: This command is English only. Dase still searching way to use Indonesian language for it.
+
+[aniuser]
+:flag_id: User yang berada dalam database Anilist.
+:flag_gb: Users residing in the Anilist database.
+
+[anime]
+:flag_id: Anime yang berada dalam database Anilist.
+:flag_gb: Anime residing in the Anilist database.
+
+[manga]
+:flag_id: Manga yang berada dalam database Anilist.
+:flag_gb: Manga residing in the Anilist database.
+
+[staff]
+:flag_id: Staff yang berada dalam database Anilist.
+:flag_gb: Staff residing in the Anilist database.
+
+[studio]
+:flag_id: Studio yang berada dalam database Anilist.
+:flag_gb: Studios residing in the Anilist database.
+
+[character]
+:flag_id: Karakter anime yang berada dalam database Anilist.
+:flag_gb: Anime characters residing in the Anilist database.

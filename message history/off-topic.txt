@@ -1,0 +1,521 @@
+2021-08-18 15:32:53.437000 - Dase: dt!mh
+2021-08-17 11:57:11.232000 - Dase: dt!wend @Dase
+2021-08-17 11:56:50.018000 - Dase: dt!wend @forAmber
+2021-08-17 11:46:22.326000 - Dase: dt!wcard @istaqom werewolf
+2021-08-17 08:54:00.424000 - forAmber: dt!wend
+2021-08-17 08:52:49.665000 - forAmber: dt!wcard @SunnyERI werewolf
+2021-08-17 08:52:03.610000 - forAmber: dt!wcard @SunnyERI abstain
+2021-08-17 08:51:19.695000 - ByDase 2: Congrats @forAmber. I'll give you the @◉ Narrator of Werewolf role.
+2021-08-17 08:51:03.920000 - ByDase 2: :flag_id:Pemilihan Narator!
+:flag_gb:Narrator Election!
+2021-08-17 08:51:03.496000 - forAmber: dt!wmod
+2021-08-17 05:18:02.115000 - Dase: dt!w_c @Vezhlivan  werewolf
+2021-08-17 04:12:49.177000 - Dase: dt!w_c @EndKnight  werewolf
+2021-08-17 04:12:01.809000 - Dase: dt!w_c @forAmber werewolf
+2021-08-17 03:53:41.273000 - ByDase 2: Couldn't find a message to snipe!
+2021-08-16 15:27:44.549000 - Dase: dt!apply
+2021-08-16 15:26:02.515000 - SunnyERI: dt!apply
+2021-08-16 15:25:52.531000 - Dase: ```dt!apply```
+2021-08-16 09:37:55.257000 - Dase: @​everyone 
+Sekedar mengingatkan aja, mulai tanggal 20 Agustus (lebih tepatnya, tanggal 19 Agustus 2021 23:59 WITA) nanti, nih channel bakal ku arsipkan
+
+Dan mulai tanggal tersebut, boleh sajalah kalian ngechat di #first-meet☝, #😶just-talking😮, dan general chatroom lainnya
+2021-08-15 17:27:24.786000 - forAmber: dt!test
+2021-08-15 17:27:13.896000 - forAmber: sd!test
+2021-08-15 17:26:44.754000 - forAmber: dt!test
+2021-08-10 09:01:25.907000 - qonythaZu: <a:OASIS_pandahug:848162543347695626>
+2021-08-07 06:05:22.949000 - ByDase 2: ```
+General commands:
+/help - displays all the available commands
+/clear amount - will delete the past messages with the amount specified
+
+Image commands:
+/search <keywords> - will change the search to the keyword
+/get - will get the image based on the current search
+
+Music commands:
+/p <keywords> - finds the song on youtube and plays it in your current channel
+/q - displays the current music queue
+/skip - skips the current song being played
+```
+2021-07-31 02:08:19.557000 - qonythaZu: :v
+2021-07-31 02:07:39.640000 - Dase: Pala batu :v
+2021-07-31 02:07:04.826000 - qonythaZu: :v
+2021-07-31 02:07:02.126000 - qonythaZu: iya iwan
+2021-07-31 02:06:41.021000 - Dase: Yak? :v
+2021-07-31 02:06:30.354000 - Dase: @​here Kalo manggil aku di sini, pake sebutan "Dase", jangan "Iwan" atau semacamnya
+2021-07-30 09:03:07.667000 - forAmber: Okesip
+2021-07-30 09:01:33.089000 - qonythaZu: Bersihkan
+2021-07-30 06:15:23.127000 - Dase: @​everyone Mau minta pendapat
+Kalo nih server udah kuresmikan, "sampah-sampah" yang tertinggal kubersihkan aja atau gak usah?
+2021-07-25 17:56:14.868000 - ByDase: Hello, @forAmber!
+2021-07-25 17:56:14.757000 - forAmber: d!hello
+2021-07-25 17:55:58.891000 - forAmber: d!test
+2021-07-25 14:50:18.055000 - qonythaZu: Wkwk
+2021-07-25 14:50:15.025000 - ByDase: Shut the fk up!
+2021-07-25 14:50:14.866000 - qonythaZu: Ajg
+2021-07-25 06:01:58.770000 - ByDase: Hello, @forAmber!
+2021-07-25 06:01:58.666000 - forAmber: d!hello
+2021-07-25 01:29:47.616000 - forAmber: <:if_noice:787992401665851403>
+2021-07-25 01:29:32.820000 - forAmber: ajg
+2021-07-25 01:29:32.804000 - ByDase: Shut the fk up!
+2021-07-25 01:29:29.203000 - forAmber: Noice
+2021-07-25 01:29:24.650000 - ByDase: Shut your mouth!
+2021-07-25 01:29:24.489000 - forAmber: ajg
+2021-07-25 00:46:59.953000 - forAmber: d!test
+2021-07-23 15:53:17.098000 - ByDase: @​everyone Bot kumatikan dulu.
+2021-07-23 15:53:16.866000 - Dase: d!matikan
+2021-07-23 00:24:41.344000 - forAmber: d!test
+2021-07-22 09:43:15.731000 - forAmber: d!help egg
+2021-07-21 11:44:28.338000 - ByDase: Your ping right now is 40ms
+API's ping right now is 213ms
+2021-07-21 11:44:28.184000 - forAmber: d!ping
+2021-07-21 08:26:22.842000 - forAmber: d!ping
+2021-07-21 08:26:06.204000 - forAmber: d!help id
+2021-07-21 03:26:31.350000 - forAmber: <:if_kanpain:819082273407107092>
+2021-07-20 14:41:15.706000 - forAmber: d!help id
+2021-07-20 14:41:02.271000 - forAmber: d!help all
+2021-07-20 14:40:53.063000 - forAmber: d!hello
+2021-07-20 14:40:45.781000 - forAmber: d!ping
+2021-07-20 06:47:40.908000 - ByDase: Hello, @forAmber!
+2021-07-20 06:47:40.790000 - forAmber: d!hello
+2021-07-20 06:46:48.420000 - forAmber: d!hello
+2021-07-20 01:44:01.256000 - ByDase: Hello, @forAmber!
+2021-07-20 01:44:01.035000 - forAmber: d!hello
+2021-07-20 01:43:54.851000 - ByDase: Your ping right now is 84ms
+API's ping right now is 228ms
+2021-07-20 01:43:54.735000 - forAmber: d!ping
+2021-07-20 01:43:38.307000 - ByDase: 
+2021-07-20 01:43:38.112000 - forAmber: d!help id
+2021-07-20 01:43:32.206000 - forAmber: d!help all
+2021-07-20 01:43:18.956000 - forAmber: d!help all
+2021-07-20 01:43:05.279000 - forAmber: d!help
+2021-07-19 16:05:52.831000 - ByDase: 
+2021-07-19 16:05:52.788000 - Dase: d!help id
+2021-07-19 16:05:16.465000 - Dase: d!help id
+2021-07-19 16:05:10.290000 - ByDase: 
+2021-07-19 16:05:10.211000 - Dase: d!help all
+2021-07-19 16:03:55.025000 - Dase: d!help
+2021-07-19 15:56:27.667000 - Dase: d!setstatus Makan
+2021-07-19 15:54:12.177000 - Dase: d!snipe
+2021-07-19 15:52:19.568000 - ByDase: 
+2021-07-19 15:52:19.434000 - Dase: d!help_id
+2021-07-19 15:51:47.229000 - ByDase: 
+2021-07-19 15:51:47.105000 - Dase: d!help
+2021-07-19 15:50:43.552000 - ByDase: 
+2021-07-19 15:50:43.372000 - Dase: d!help id
+2021-07-19 15:50:06.399000 - Dase: d!helpus
+2021-07-19 15:50:05.960000 - ByDase: 
+2021-07-19 15:50:01.290000 - Dase: d!help
+2021-07-19 15:49:54.729000 - Dase: d!help
+2021-07-19 15:49:01.831000 - ByDase: 
+2021-07-19 15:49:01.773000 - Dase: d!help
+2021-07-19 15:48:26.550000 - Dase: d!help
+2021-07-19 15:43:27.776000 - ByDase: 
+2021-07-19 15:43:27.642000 - Dase: d!helpus_en
+2021-07-19 15:43:12.346000 - ByDase: 
+2021-07-19 15:43:12.274000 - Dase: d!helpus_id
+2021-07-19 15:43:07.278000 - ByDase: Your ping right now is 47ms
+API's ping right now is' 231ms
+2021-07-19 15:43:07.156000 - Dase: d!ping
+2021-07-19 15:42:39.069000 - ByDase: 
+2021-07-19 15:42:39.008000 - Dase: d!helpus
+2021-07-19 11:57:26.887000 - ByDase: Your ping right now is 80ms
+API's ping right now is' 210ms
+2021-07-19 11:57:26.668000 - forAmber: d!ping
+2021-07-19 11:43:58.161000 - ByDase: Your ping right now is 81ms
+API's ping right now is' 220ms
+2021-07-19 11:43:58.019000 - Dase: d!ping
+2021-07-19 11:43:54.526000 - ByDase: Your ping right now is 81ms
+API's ping right now is' 229ms
+2021-07-19 11:43:54.330000 - Dase: d!ping
+2021-07-19 11:32:36.702000 - ByDase: Your ping right now is 85ms
+API's ping right now is' 156ms
+2021-07-19 11:32:36.555000 - Dase: d!ping
+2021-07-19 11:26:44.431000 - Dase: d!ping
+2021-07-19 11:26:37.717000 - Dase: d!helpus
+2021-07-19 11:24:31.423000 - ByDase: Your ping right now is 83ms
+API's ping right now is' 203ms
+2021-07-19 11:24:31.256000 - Dase: d!ping
+2021-07-19 11:24:25.826000 - ByDase: ```
+CommandsAdmin:
+  ban       Ban a member.
+  kick      Kick a member.
+  matikan   Hanya chat info ke penghuni Discord, bukan untuk mematikan bot
+  setstatus Set the bot's status.
+  snipe     
+SomeCommands:
+  hello     
+  helpus    
+  helpus_en 
+  helpus_id 
+  minna     
+  ping      Get the bot's current websocket and API latency.
+​No Category:
+  help      Shows this message
+
+Type d!help command for more info on a command.
+You can also type d!help category for more info on a category.
+```
+2021-07-19 11:24:25.613000 - Dase: d!help
+2021-07-19 10:49:35.396000 - ByDase: Your ping right now is 80ms
+API's ping right now is' 183ms
+2021-07-19 10:49:35.245000 - forAmber: d!ping
+2021-07-19 10:49:31.348000 - forAmber: d!pinh
+2021-07-19 10:47:26.587000 - ByDase: 
+2021-07-19 10:47:26.380000 - forAmber: d!helpus
+2021-07-19 10:47:18.807000 - forAmber: D!helpus
+2021-07-19 10:46:56.284000 - ByDase: Hello, @forAmber!
+2021-07-19 10:46:56.098000 - forAmber: d!hello
+2021-07-17 07:36:13.900000 - Dase: d!unban Alter_Ego10#5821
+2021-07-17 07:35:52.176000 - ByDase: @Alter_Ego10#5821 has been banned.
+2021-07-17 07:35:51.688000 - Dase: d!ban @forAmber
+2021-07-17 07:29:53.407000 - Dase: d!unban <@​!764302012388737074>
+2021-07-17 07:29:39.404000 - Dase: d!unban Alter_Ego10#5821
+2021-07-17 07:29:07.748000 - Dase: d!unban 764302012388737074
+2021-07-17 07:28:39.992000 - Dase: d!unban
+2021-07-17 07:28:12.932000 - Dase: d!unban
+2021-07-17 07:19:22.147000 - ByDase: @OrlockIV#0689 has been kicked.
+2021-07-17 07:19:21.700000 - Dase: d!kick @OrlockIV
+2021-07-17 07:10:41.417000 - ByDase: Alter_Ego10#5821 has been banned.
+2021-07-17 07:10:40.946000 - Dase: d!ban @forAmber
+2021-07-17 07:09:01.226000 - ByDase: Are you sure you want to ban @Alter_Ego10#5821?
+2021-07-17 07:09:00.704000 - Dase: d!ban @forAmber
+2021-07-17 07:07:59.459000 - ByDase: Are you sure you want to ban @Alter_Ego10#5821?
+2021-07-17 07:07:59.110000 - Dase: d!ban @forAmber
+2021-07-17 07:05:01.468000 - Dase: yes
+2021-07-17 07:04:59.874000 - ByDase: Are you sure you want to ban Alter_Ego10#5821?
+2021-07-17 07:04:59.384000 - Dase: d!ban @forAmber
+2021-07-17 03:23:38.865000 - Dase: <:HinaTeehee:644299473081729024>
+2021-07-17 03:23:30.618000 - Dase: Kukira aku lagi di #admin-toggle
+2021-07-17 03:23:22.162000 - Dase: Ups, sorry
+2021-07-17 03:23:08.980000 - Dase: d!setstatus Makan
+2021-07-17 03:22:58.615000 - Dase: d!matikan
+2021-07-17 03:22:51.542000 - ByDase: 
+2021-07-17 03:22:51.525000 - ByDase: 
+2021-07-17 03:22:50.813000 - Dase: d!helpus
+2021-07-17 03:22:46.982000 - ByDase: There is no message to snipe!
+2021-07-17 03:22:46.639000 - ByDase: There is no message to snipe!
+2021-07-17 03:22:46.029000 - Dase: d!snipe
+2021-07-17 03:13:21.882000 - ByDase: There is no message to snipe!
+2021-07-17 03:13:21.876000 - ByDase: There is no message to snipe!
+2021-07-17 03:13:21.459000 - Dase: d!snipe
+2021-07-17 03:09:48.481000 - Dase: d!setstatus Masak
+2021-07-17 03:09:46.677000 - Dase: d!setstatus Masak
+2021-07-17 03:08:30.390000 - Dase: d!setstatus Phising
+2021-07-17 03:08:27.728000 - Dase: d!setstatus Phising
+2021-07-17 03:07:31.606000 - ByDase: 
+2021-07-17 03:07:30.834000 - Dase: d!setstatus Phising
+2021-07-17 03:07:28.746000 - Dase: d!setstatus Phising
+2021-07-17 03:04:26.128000 - Dase: d!setstatus On The Way
+2021-07-17 03:04:23.871000 - Dase: d!setstatus On The Way
+2021-07-17 03:04:05.303000 - Dase: d!helpus
+2021-07-17 03:03:57.571000 - ByDase: 
+2021-07-17 03:03:57.202000 - ByDase: 
+2021-07-17 03:03:56.455000 - Dase: d!helpus
+2021-07-16 16:10:03.651000 - ByDase: @​everyone Bot kumatikan dulu.
+2021-07-16 16:10:03.120000 - Dase: d!matikan
+2021-07-16 14:15:37.478000 - ByDase: @​everyone
+:flag_id: Gimana kabar hari ini?
+:flag_gb: How you'll today?
+2021-07-16 14:15:37.438000 - ByDase: @​everyone, gimana kabar hari ini?
+How you'll today?
+2021-07-16 14:15:36.912000 - SunnyERI: d!minna
+2021-07-16 14:15:14.498000 - ByDase: Your ping right now is 320ms
+2021-07-16 14:15:14.448000 - ByDase: Your ping right now is 336ms
+2021-07-16 14:15:14.075000 - SunnyERI: d!ping
+2021-07-16 14:15:02.983000 - ByDase: Hello, @SunnyERI!
+2021-07-16 14:15:02.913000 - ByDase: Hello, @SunnyERI!
+2021-07-16 14:15:02.445000 - SunnyERI: d!hello
+2021-07-16 14:14:42.929000 - ByDase: :flag_id: Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.
+:flag_gb: Oh, you don't know how to used this bot? That's okay, I will tell you some simple commands here.
+
+d!helpus ("REMEMBER, use it instead of d!help"!)
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
+
+d!hello
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+d!ping
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+d!minna
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+2021-07-16 14:14:42.819000 - ByDase: :flag_id: Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.
+:flag_gb: Oh, you don't know how to used this bot? That's okay, I will tell you some simple commands here.
+
+d!helpus ("REMEMBER, use it instead of d!help"!)
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
+
+d!hello
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+d!ping
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+d!minna
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+2021-07-16 14:14:42.366000 - SunnyERI: d!helpus
+2021-07-16 14:13:45.404000 - Dase: 
+2021-07-16 14:13:31.776000 - ByDase: :flag_id: Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.
+:flag_gb: Oh, you don't know how to used this bot? That's okay, I will tell you some simple commands here.
+
+d!helpus ("REMEMBER, use it instead of d!help"!)
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
+
+d!hello
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+d!ping
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+d!minna
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+2021-07-16 14:13:31.764000 - ByDase: :flag_id: Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.
+:flag_gb: Oh, you don't know how to used this bot? That's okay, I will tell you some simple commands here.
+
+d!helpus ("REMEMBER, use it instead of d!help"!)
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
+
+d!hello
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+d!ping
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+d!minna
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+2021-07-16 14:13:31.203000 - Dase: d!helpus
+2021-07-16 07:39:20.583000 - ByDase: Hello, @forAmber!
+2021-07-16 03:04:25.350000 - qonythaZu: <:uc_wow:837560270037581855>
+2021-07-16 03:04:03.065000 - ByDase: @​everyone Bot kumatikan dulu.
+2021-07-16 03:04:02.709000 - Dase: d!shutdown
+2021-07-16 02:35:57.707000 - ByDase: :flag_id: Apa kau gak tahu cara pake nih bot? Gapapa, kukasih tahu command yang simpel di sini.
+
+:flag_gb: Oh, you don't know how to used this bot? That's okay, I will tell you some simple commands here.
+
+d!helpus ("REMEMBER, use it instead of d!help"!)
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
+
+d!hello
+:flag_id: Bot akan menyapamu.
+:flag_gb: Bot will greeting to you.
+
+d!ping
+:flag_id: Mengecek ping milikmu saat ini.
+:flag_gb: Checking your own ping right now.
+
+d!minna
+:flag_id: Menanyakan kabar seluruh penghuni server.
+:flag_gb: Ask for everyone's dispatch.
+2021-07-16 02:35:57.205000 - Dase: d!helpus
+2021-07-15 15:20:43.786000 - ByDase: ```
+​No Category:
+  hello 
+  help  Shows this message
+  ping  
+
+Type d!help command for more info on a command.
+You can also type d!help category for more info on a category.
+```
+2021-07-15 15:20:43.617000 - ByDase: ```
+​No Category:
+  hello 
+  help  Shows this message
+  ping  
+
+Type d!help command for more info on a command.
+You can also type d!help category for more info on a category.
+```
+2021-07-15 15:20:43.145000 - forAmber: d!help
+2021-07-15 15:16:47.693000 - ByDase: ```
+​No Category:
+  hello 
+  help  Shows this message
+  ping  
+
+Type d!help command for more info on a command.
+You can also type d!help category for more info on a category.
+```
+2021-07-15 15:16:47.225000 - forAmber: d!help
+2021-07-15 15:16:43.910000 - qonythaZu: <:if_mwehehehe:856403615278039040>
+2021-07-15 15:16:39.116000 - ByDase: Your ping right now is 322ms
+2021-07-15 15:16:38.491000 - qonythaZu: d!ping
+2021-07-15 15:16:35.015000 - forAmber: <:mwhehe:767958211038674954>
+2021-07-15 15:16:25.604000 - forAmber: Aku masih belajar, Nyonya
+2021-07-15 15:16:16.228000 - qonythaZu: <:uc_taohmm:816994766830043148>
+2021-07-15 15:16:01.562000 - forAmber: Ngecek ping saat ini juga
+2021-07-15 15:15:36.238000 - qonythaZu: Maksudnya apani
+2021-07-15 15:15:19.917000 - ByDase: Your ping right now is 306ms
+2021-07-15 15:15:19.363000 - qonythaZu: d!ping
+2021-07-15 15:15:04.275000 - ByDase: ```
+d!ping 
+
+```
+2021-07-15 15:15:03.580000 - qonythaZu: d!help ping
+2021-07-15 15:14:36.479000 - ByDase: ```
+​No Category:
+  hello 
+  help  Shows this message
+  ping  
+
+Type d!help command for more info on a command.
+You can also type d!help category for more info on a category.
+```
+2021-07-15 15:14:36.017000 - qonythaZu: d!help
+2021-07-15 15:14:24.569000 - ByDase: Hello, @qonythaZu!
+2021-07-15 15:14:23.753000 - qonythaZu: d!hello
+2021-07-15 14:31:30.954000 - ByDase: Your ping right now is 347ms
+2021-07-15 14:31:30.519000 - forAmber: d!ping
+2021-07-15 14:31:22.138000 - forAmber: Noice
+2021-07-15 14:31:18.393000 - ByDase: Hello, @forAmber!
+2021-07-15 14:31:17.753000 - forAmber: d!hello
+2021-07-15 14:31:12.187000 - forAmber: Dah online
+2021-07-15 13:57:55.580000 - qonythaZu: <:uc_taohmm:816994766830043148>
+2021-07-15 13:57:42.962000 - forAmber: Lagi main Valo <:mayahuhehe:857915798504996904>
+2021-07-15 13:55:54.177000 - qonythaZu: Online kan dulu
+2021-07-15 13:55:28.905000 - qonythaZu: d!hello
+2021-07-15 08:48:16.192000 - forAmber: Oiya, dah offline botnya
+2021-07-15 08:48:02.194000 - forAmber: d!hello
+2021-07-15 08:35:40.495000 - Dase: Imma take the rl for some hours
+2021-07-15 08:35:28.741000 - Dase: Okay, then
+2021-07-15 08:35:23.771000 - Dase: Bruh, baru bisa...  :v
+2021-07-15 08:35:15.537000 - ByDase: Hello, @Dase!
+2021-07-15 08:35:15.133000 - Dase: d!hello
+2021-07-15 08:34:20.610000 - Dase: Nande...?
+2021-07-15 08:34:05.611000 - Dase: d!hello
+2021-07-14 21:48:06.256000 - qonythaZu: <:if_mwehehehe:856403615278039040>
+2021-07-14 14:05:25.476000 - Dase: d!hello
+2021-07-14 13:46:44.751000 - Dase: Gak bisa
+2021-07-14 13:45:28.091000 - Dase: d!hello
+2021-07-14 13:44:39.537000 - Dase: Bruh :v
+2021-07-14 13:44:30.830000 - Dase: ```(base) C:\Users\asus>d:
+
+(base) D:\>cd "Kuliah Only\Python project\ByDase"
+
+(base) D:\Kuliah Only\Python project\ByDase>python hello.py
+Ignoring exception in command hello:
+Traceback (most recent call last):
+  File "C:\Users\asus\anaconda3\lib\site-packages\discord\ext\commands\core.py", line 85, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "hello.py", line 11, in hello
+    await ctx.send(f'Hello, {author.mention}!') #       ,       author.
+  File "C:\Users\asus\anaconda3\lib\site-packages\discord\abc.py", line 1065, in send
+    data = await state.http.send_message(channel.id, content, tts=tts, embed=embed,
+  File "C:\Users\asus\anaconda3\lib\site-packages\discord\http.py", line 248, in request
+    raise Forbidden(r, data)
+discord.errors.Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\asus\anaconda3\lib\site-packages\discord\ext\commands\bot.py", line 939, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\asus\anaconda3\lib\site-packages\discord\ext\commands\core.py", line 863, in invoke
+    await injected(*ctx.args, **ctx.kwargs)
+  File "C:\Users\asus\anaconda3\lib\site-packages\discord\ext\commands\core.py", line 94, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: Forbidden: 403 Forbidden (error code: 50013): Missing Permissions
+```
+2021-07-14 13:43:57.471000 - Dase: d!hello
+2021-07-14 11:38:46.478000 - qonythaZu: <:uc_whaaa:835369359131410433>
+2021-07-14 08:57:44.164000 - forAmber: <:ayumucry:819925633354170398>
+2021-07-14 08:57:26.861000 - forAmber: Entah kenapa buat tweet ku gk bekerja
+2021-07-14 08:57:16.377000 - forAmber: Noice, Twitter feed bekerja
+2021-07-14 08:45:13.414000 - qonythaZu: <a:if_nyaPopcorn:855583209835593749>
+2021-07-14 08:45:05.427000 - forAmber: Oke, noted
+2021-07-14 08:45:00.237000 - forAmber: Nah, itu...
+2021-07-14 08:44:54.192000 - forAmber: Maksudku, nambahin yg kayak channel hobi dll
+2021-07-14 08:44:50.514000 - qonythaZu: Tambahin emot2 aja dulu
+2021-07-14 08:44:34.406000 - qonythaZu: <:if_hehe:819015549120020542>
+2021-07-14 08:44:29.481000 - qonythaZu: Oyakah
+2021-07-14 08:44:16.781000 - forAmber: <:KasumiBruh:682493938044764160>
+2021-07-14 08:44:10.040000 - forAmber: Udah...
+2021-07-14 08:43:45.038000 - qonythaZu: Bikin channel pengumuman aja dulu Wkwk <:if_mwehehehe:856403615278039040>
+2021-07-14 08:43:28.097000 - forAmber: Sisanya, biar pada senang aja, tapi masih sehat (no +18)
+2021-07-14 08:43:11.793000 - forAmber: Itu udah, yg utama...
+2021-07-14 08:43:06.159000 - forAmber: Utamanya biar orang" tahu aku upload video, artikel blog, dll
+2021-07-14 08:42:29.511000 - qonythaZu: Ini server nya server apa dulu wkwk
+2021-07-14 08:42:16.461000 - qonythaZu: Hmm
+2021-07-14 04:15:03.546000 - Dase: ???
+2021-07-14 04:15:00.656000 - Dase: Dan, apa lagi enaknya buat ditambahin
+2021-07-14 04:10:23.153000 - Dase: Btw, worth it gk ya, ngatur buat channel game, sekarang?
+2021-07-14 04:09:19.419000 - qonythaZu: <:if_sipcat:793474309603459103>
+2021-07-14 04:07:34.432000 - Dase: @​everyone Oiya, kalo mau nge chat, di sini aja dulu (baca: #off-topic)
+Behambur nya pas udah selesai di konfigurasi servernya
+2021-07-12 14:26:32.316000 - qonythaZu: <:uc_taohmm:816994766830043148>
+2021-07-12 10:33:51.087000 - Dase: Aku males make @Carl-bot
+2021-07-12 10:33:17.608000 - Dase: Oke...
+2021-07-12 10:24:55.241000 - Dase: Kirain gak bisa
+2021-07-12 10:24:49.751000 - Dase: Oke, good
+2021-07-12 10:24:23.855000 - Degu: ye
+2021-07-12 10:23:51.355000 - Dase: @​hereKalian dah bisa liat channel" yg lain, kh?
+2021-07-12 10:19:15.446000 - qonythaZu: <:uc_smirkof:836101480641331221>
+2021-07-12 10:19:06.814000 - Dase: Kucoba aja dulu
+2021-07-12 10:19:03.605000 - Dase: Hmm
+2021-07-12 10:18:42.411000 - qonythaZu: <a:if_nyaPopcorn:855583209835593749>
+2021-07-12 10:18:38.163000 - qonythaZu: Ez
+2021-07-12 10:18:36.901000 - qonythaZu: Lebih
+2021-07-12 10:18:34.607000 - qonythaZu: Keliatan
+2021-07-12 10:18:31.302000 - qonythaZu: Cuma
+2021-07-12 10:18:29.103000 - qonythaZu: Sih
+2021-07-12 10:18:26.729000 - qonythaZu: Iya
+2021-07-12 10:18:14.800000 - Dase: Kalo fungsinya mirip", juga
+2021-07-12 10:18:04.249000 - Dase: Sudahlah, kebanyakan utility nanti
+2021-07-12 10:17:41.611000 - qonythaZu: Bisa
+2021-07-12 10:17:32.822000 - qonythaZu: Nyuri emote
+2021-07-12 10:17:24.565000 - qonythaZu: <:if_mwehehehe:856403615278039040>
+2021-07-12 10:17:21.705000 - qonythaZu: Yang reaction roles bisa juga
+2021-07-12 10:17:11.819000 - qonythaZu: Macam2
+2021-07-12 10:17:04.446000 - qonythaZu: Daripada @YAGPDB.xyz
+2021-07-12 10:16:52.670000 - Dase: Buat apa?
+2021-07-12 10:16:50.309000 - qonythaZu: Belum pernah nyoba tapi keliatannya lebih enak
+2021-07-12 10:16:44.264000 - Degu: <:if_taohmm:855586558966235146>
+2021-07-12 10:16:30.267000 - qonythaZu: Coba pake Carl bot aja bang
+2021-07-12 10:16:01.972000 - qonythaZu: <a:uc_kekwink:836101483426218014>
+2021-07-12 10:15:55.655000 - forAmber: Duluan kuundang
+2021-07-12 10:15:41.098000 - qonythaZu: Wkwk
+2021-07-12 10:15:38.388000 - qonythaZu: Istaqom ini dimana2 ada
+2021-07-12 10:15:35.713000 - forAmber: Gpp, lah :v
+2021-07-12 10:15:32.019000 - forAmber: Eh, keliatan, y?
+2021-07-12 10:15:18.068000 - qonythaZu: <:uc_taohmm:816994766830043148>
+2021-07-12 08:01:34.056000 - Dase: Noice
+2021-07-12 07:49:25.206000 - istaqom: dah 👍
+2021-07-12 07:49:09.885000 - Dase: Dah, kh? @◉ Modder
+2021-07-12 03:56:17.380000 - forAmber: Agenda hari ini, ngedit video pengumuman
+2021-07-12 03:55:49.821000 - forAmber: <:if_hehe:819015549120020542>
+2021-07-12 03:55:44.527000 - forAmber: Belum kuatur, emang...
+2021-07-12 03:54:55.852000 - istaqom: harus diatur di tiap cenel/category sih wkokow
+2021-07-12 03:54:47.686000 - istaqom: masih gk bisa bang :v
+2021-07-11 14:30:58.024000 - forAmber: Tunggu akun utamaku ter login
+2021-07-11 14:30:39.369000 - forAmber: Bentar"
+2021-07-11 14:30:36.974000 - forAmber: Oiya, kah? :v
+2021-07-11 13:50:37.724000 - istaqom: gk bisa ngatur cenel
+2021-07-11 13:49:28.891000 - istaqom: apa fungsi dari modder ni bang
+2021-07-11 10:58:22.255000 - Dase: Tar, kucari
+2021-07-11 10:58:16.350000 - Dase: Owh, bot Autochannel
+2021-07-11 10:58:04.781000 - istaqom: itu gk bisa perasaanku
+2021-07-11 10:57:59.203000 - Dase: <:if_sipcat:793474309603459103>
+2021-07-11 10:57:52.040000 - Dase: Okeoke
+2021-07-11 10:57:50.225000 - Dase: Yg @YAGPDB.xyz , y?
+2021-07-11 10:57:19.594000 - istaqom: autochannel bot bisa, MEE6 bot juga bisa
+2021-07-11 10:56:21.589000 - Dase: Lupa nama botnya :v
+2021-07-11 10:56:16.477000 - Dase: Oiya, itu..
+2021-07-11 10:55:49.835000 - istaqom: bang @Dase mending buat voice channel pake bot yang bisa buat room sendiri aja bang

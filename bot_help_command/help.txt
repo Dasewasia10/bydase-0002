@@ -1,0 +1,7 @@
+[help list]
+:flag_id: Daftar seluruh command yang tersedia.
+:flag_gb:List of all available command.
+
+[help all]
+:flag_id: Command untuk memanggil panduan sederhana ini.
+:flag_gb: This commands is to summon this guide.
