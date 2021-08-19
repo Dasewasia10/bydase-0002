@@ -13,9 +13,9 @@ TOKEN = getenv('DISCORD_TOKEN')
 intents = discord.Intents.default()
 intents.members = True
 
-activity = discord.Game(name="dt!help all")
+activity = discord.Game(name="d!help list")
 
-bot = commands.Bot(command_prefix="dt!", intents=intents, activity=activity, status=discord.Status.online,
+bot = commands.Bot(command_prefix="d!", intents=intents, activity=activity, status=discord.Status.online,
                    help_command=None,
                    allowed_mentions=discord.AllowedMentions(
                        users=True,  # Whether to ping individual user @mentions
