@@ -108,9 +108,9 @@ class SimpleWerewolf(commands.Cog):
                 await ctx.author.send(embed=embed)
 
     @commands.command(aliases=['WEND'])
-    @commands.has_role(863645350308872192)
+    @commands.has_permissions(administrator=True)
     async def wend(self, ctx: commands.Context, member: discord.Member):
-        role = get(member.guild.roles, id=877064462429990983)
+        role = get(member.guild.roles, name="The Narrator")
         await member.remove_roles(role)
         await ctx.author.send(f"Role {role.mention} is already deleted from you.")
 
@@ -127,7 +127,7 @@ class SimpleWerewolf(commands.Cog):
         message = await msg.channel.fetch_message(msg.id)
         reaction = get(message.reactions, emoji=emoji)
         users = [user async for user in reaction.users() if user.id != self.bot.user.id]
-        role = get(choice(users).guild.roles, id=877064462429990983)
+        role = get(choice(users).guild.roles, name="The Narrator")
         await ctx.send(f"Congrats {choice(users).mention}. I'll give you the {role.mention} role.")
         await member.add_roles(choice(users), role)
 
@@ -138,7 +138,7 @@ class SimpleWerewolf(commands.Cog):
             await ctx.channel.send(f"{choice(users)} is not has this role anymore.")
 
     @commands.command(aliases=['WCARD'])
-    @commands.has_role(877064462429990983)
+    @commands.has_role("The Narrator")
     # This command will delivered a card by it name
     async def wcard(self, ctx, member: discord.Member, *, card):
         keyword = self.DaftarKartu_id
