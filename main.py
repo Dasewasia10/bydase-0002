@@ -94,14 +94,14 @@ async def on_message(message):
         praise_word = file2.read().replace('\n', '')
 
     if message.author != bot.user and not message.attachments and not message.embeds:
-        if lower(message.content) in bad_word:
+        if lower(message.content) == bad_word:
             emb = discord.Embed(colour=0xd80000,
                                 description=random.choice(
                                     open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
                                 )
             await message.channel.send(embed=emb)
 
-        elif lower(message.content) in praise_word:
+        elif lower(message.content) == praise_word:
             emb = discord.Embed(colour=0xd80000,
                                 description=random.choice(
                                     open('respon_and_answer/praise_answer.txt', encoding="utf8").readlines())
@@ -114,9 +114,9 @@ async def on_message(message):
     if bot.user.mentioned_in(message) and 'Hi' in message.content:
         await message.channel.send(':hand_splayed: Yo, what\'s up?')
 
-    if "tau aku" in message.content:
+    if lower("tau aku") in message.content:
         await message.channel.send("TaU aKu")
-    elif "apasih lol" in message.content:
+    elif lower("apasih lol") in message.content:
         await message.channel.send("ApAsIh LoL")
 
     else:
