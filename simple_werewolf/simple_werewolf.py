@@ -131,11 +131,11 @@ class SimpleWerewolf(commands.Cog):
         await ctx.send(f"Congrats {choice(users).mention}. I'll give you the {role.mention} role.")
         await member.add_roles(choice(users), role)
 
-        time.sleep(18000)
-        if role in choice(users):
-            await member.remove_roles(choice(users), role)
-        elif role not in choice(users):
-            await ctx.channel.send(f"{choice(users)} is not has this role anymore.")
+        # time.sleep(18000)
+        # if role in choice(users):
+        #     await member.remove_roles(choice(users), role)
+        # elif role not in choice(users):
+        #     await ctx.channel.send(f"{choice(users)} is not has this role anymore.")
 
     @commands.command(aliases=['WCARD'])
     @commands.has_role("The Narrator")
