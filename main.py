@@ -89,9 +89,9 @@ async def on_message(message):
     await bot.process_commands(message)
     # Text on txt
     with open('respon_and_answer/bad_word.txt', encoding="utf8") as file:
-        bad_word = file.read().replace('\n', '')
+        bad_word = file.read().split(",")
     with open('respon_and_answer/praise_word.txt', encoding="utf8") as file2:
-        praise_word = file2.read().replace('\n', '')
+        praise_word = file2.read().split(",")
 
     if message.author != bot.user and not message.attachments and not message.embeds:
         if all(word == lower(message.content) for word in bad_word):
