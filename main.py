@@ -114,9 +114,9 @@ async def on_message(message):
     if bot.user.mentioned_in(message) and 'Hi' in message.content:
         await message.channel.send(':hand_splayed: Yo, what\'s up?')
 
-    if lower("tau aku") in message.content:
+    if "tau aku" in lower(message.content):
         await message.channel.send("TaU aKu")
-    elif lower("apasih lol") in message.content:
+    elif "apasih lol" in lower(message.content):
         await message.channel.send("ApAsIh LoL")
 
     else:
