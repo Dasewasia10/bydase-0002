@@ -27,7 +27,7 @@ class CommandsAdmin(commands.Cog):
 
     @commands.Cog.listener()
     async def on_member_join(self, member: discord.Member):
-        channel = self.bot.get_channel(863445778420334617)
+        channel = self.bot.get_channel(877980286271496212)
 
         if not channel:
             return
