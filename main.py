@@ -87,7 +87,31 @@ async def on_command_error(ctx: commands.Context, error: commands.CommandError):
 @bot.event
 async def on_message(message):
     await bot.process_commands(message)
-    
+    # Text on txt
+    with open('respon_and_answer/bad_word.txt', encoding="utf8") as file:
+        bad_word = file.read().replace('\n', '')
+    with open('respon_and_answer/praise_word.txt', encoding="utf8") as file2:
+        praise_word = file2.read().replace('\n', '')
+
+    if message.author != bot.user and not message.attachments and not message.embeds:
+        if lower(message.content) in bad_word:
+            print(message.attachments)
+            emb = discord.Embed(colour=0xd80000,
+                                description=random.choice(
+                                    open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
+                                )
+            await message.channel.send(embed=emb)
+
+        elif lower(message.content) in praise_word:
+            emb = discord.Embed(colour=0xd80000,
+                                description=random.choice(
+                                    open('respon_and_answer/praise_answer.txt', encoding="utf8").readlines())
+                                )
+            await message.channel.send(embed=emb)
+
+    if message.author == bot.user or message.attachments or message.embeds:
+        return
+      
     if bot.user.mentioned_in(message) and 'Hi' in message.content:
         await message.channel.send(':hand_splayed: Yo, what\'s up?')
 
