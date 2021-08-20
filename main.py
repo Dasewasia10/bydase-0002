@@ -94,14 +94,14 @@ async def on_message(message):
         praise_word = file2.read().replace('\n', '')
 
     if message.author != bot.user and not message.attachments and not message.embeds:
-        if lower(message.content) == bad_word:
+        if all(word == lower(message.content) for word in bad_word):
             emb = discord.Embed(colour=0xd80000,
                                 description=random.choice(
                                     open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
                                 )
             await message.channel.send(embed=emb)
 
-        elif lower(message.content) == praise_word:
+        elif all(word == lower(message.content) for word in praise_word):
             emb = discord.Embed(colour=0xd80000,
                                 description=random.choice(
                                     open('respon_and_answer/praise_answer.txt', encoding="utf8").readlines())
