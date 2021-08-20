@@ -95,7 +95,6 @@ async def on_message(message):
 
     if message.author != bot.user and not message.attachments and not message.embeds:
         if lower(message.content) in bad_word:
-            print(message.attachments)
             emb = discord.Embed(colour=0xd80000,
                                 description=random.choice(
                                     open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
@@ -117,6 +116,8 @@ async def on_message(message):
 
     if "tau aku" in message.content:
         await message.channel.send("TaU aKu")
+    elif "apasih lol" in message.content:
+        await message.channel.send("ApAsIh LoL")
 
     else:
         return
