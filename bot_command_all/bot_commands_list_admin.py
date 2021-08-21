@@ -260,7 +260,7 @@ class CommandsAdmin(commands.Cog):
                     try:
                         msg = await bot.wait_for('message', timeout=123, check=check)
                     except asyncio.TimeoutError:
-                        await ctx.author.send("Timeout message. Please type dt!apply again.")
+                        await ctx.author.send("Timeout message. Please type `d!apply en` command again.")
                         return  # Will no longer proceed, user has to run the command again
                     else:
                         answers.append(msg)  # Appends the answers, proceed
@@ -288,7 +288,7 @@ class CommandsAdmin(commands.Cog):
                     try:
                         msg = await bot.wait_for('message', timeout=123, check=check)
                     except asyncio.TimeoutError:
-                        await ctx.author.send("Waktu telah habis. Silahkan ketik dt!apply lagi.")
+                        await ctx.author.send("Waktu telah habis. Silahkan ketik command `d!apply id` lagi.")
                         return  # Will no longer proceed, user has to run the command again
                     else:
                         answers.append(msg)  # Appends the answers, proceed
