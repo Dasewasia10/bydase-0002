@@ -45,7 +45,7 @@ async def on_ready():
 
     print(f'{bot.user} has connected to Discord!')
 
-
+'''
 @bot.event
 async def on_command_error(ctx: commands.Context, error: commands.CommandError):
     """A global error handler cog."""
@@ -82,7 +82,7 @@ async def on_command_error(ctx: commands.Context, error: commands.CommandError):
         message = "Oh no! Something went wrong while running the command!"
         embed = discord.Embed(title=f"Woah, woah!", description=message, colour=0xd80000)
         await ctx.send(embed=embed, delete_after=5)
-
+'''
 
 @bot.event
 async def on_message(message):
