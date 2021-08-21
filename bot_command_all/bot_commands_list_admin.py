@@ -141,7 +141,7 @@ class CommandsAdmin(commands.Cog):
     @commands.has_role(863645078635413524)
     async def mute(self, ctx, user: discord.Member):
         channel = self.bot.get_channel(876292626075242546)
-        role = get(ctx.message.server.roles, id=863647005356326912)
+        role = get(ctx.message.guild.roles, id=863647005356326912)
         await bot.remove_roles(user, role)
         await channel.send(f"{user} has been muted for 3 days.")
         time.sleep(259200)
@@ -231,7 +231,7 @@ class CommandsAdmin(commands.Cog):
     @commands.command(aliases=['APPLY'])
     async def apply(self, ctx: commands.Context, language):
         await ctx.message.delete(delay=3)
-        if ctx.author.roles == get(ctx.message.server.roles, id=863647005356326912):
+        if ctx.author.roles == get(ctx.message.guild.roles, id=863647005356326912):
             ctx.author.send("You already has the main role! Get another on the server!")
         else:
             embed = discord.Embed(description=":flag_id: Isi form kebenaran ini!"
@@ -310,7 +310,7 @@ class CommandsAdmin(commands.Cog):
                             f"3. {answers[2].content}\n" \
                             f"{ctx.author.name} joined in {ctx.author.joined_at}"
             await channel.send(embed=e)
-            await ctx.author.add_roles(get(ctx.message.server.roles, id=863647005356326912))
+            await ctx.author.add_roles(get(ctx.message.guild.roles, id=863647005356326912))
             await ctx.author.send("Now, cek #🔰get-your-role🔰 to get the role you want to.")
 
     @commands.command(aliases=['GIVEROLE'])
