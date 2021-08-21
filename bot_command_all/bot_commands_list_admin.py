@@ -230,6 +230,7 @@ class CommandsAdmin(commands.Cog):
 
     @commands.command(aliases=['APPLY'])
     async def apply(self, ctx: commands.Context, language):
+        await ctx.message.delete(delay=3)
         if ctx.author.roles == get(ctx.message.server.roles, id=863647005356326912):
             ctx.author.send("You already has the main role! Get another on the server!")
         else:
