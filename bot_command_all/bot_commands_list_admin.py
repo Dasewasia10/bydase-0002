@@ -231,7 +231,7 @@ class CommandsAdmin(commands.Cog):
     @commands.command(aliases=['APPLY'])
     async def apply(self, ctx: commands.Context, language):
         await ctx.message.delete(delay=3)
-        if ctx.author.roles == get(ctx.message.guild.roles, id=863647005356326912):
+        if get(ctx.message.guild.roles, id=863647005356326912) in ctx.author.roles:
             ctx.author.send("You already has the main role! Get another on the server!")
         else:
             embed = discord.Embed(description=":flag_id: Isi form kebenaran ini!"
