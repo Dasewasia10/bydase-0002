@@ -160,7 +160,7 @@ async def on_raw_reaction_add(payload):
     if message_id == 878112319962484736:
         guild = discord.utils.find(lambda g: g.id == guild_id, bot.guilds)
 
-        if payload.emoji.name == ':woman_in_lotus_position:':
+        if payload.emoji.name == '🧘‍♀️':
             role = discord.utils.get(guild.roles, id=877983558168354846)
         else:
             role = discord.utils.get(guild.roles, name=payload.emoji.name)
@@ -182,6 +182,39 @@ async def on_raw_reaction_remove(payload):
             await guild.get_member(payload.user_id).remove_roles(guild.get_role(role_id))
             return
 
+    message_id = payload.message_id
+    guild = bot.get_guild(payload.guild_id)
+    member = guild.get_member(payload.user_id)
+    if message_id == 875962741733601280:  # ID depends on message
+        if payload.emoji.name == '🇮🇩':
+            role = discord.utils.get(guild.roles, id=875321668363501568)
+        elif payload.emoji.name == '🇬🇧':
+            role = discord.utils.get(guild.roles, id=875322007892398090)
+        else:
+            role = discord.utils.get(guild.roles, name=payload.emoji.name)
+
+        if role is not None:
+            if member is not None:
+                await member.remove_roles(role)
+                print("done")
+            else:
+                print("member not found")
+        else:
+            print("role not found.")
+
+    elif message_id == 878112319962484736:
+        if payload.emoji.name == '🧘‍♀️':
+            role = discord.utils.get(guild.roles, id=877983558168354846)
+        else:
+            role = discord.utils.get(guild.roles, name=payload.emoji.name)
+
+        if role is not None:
+            if member is not None:
+                await member.remove_roles(role)
+            else:
+                print("Member not found")
+        else:
+            print(f"Role not found")
 
 bot.load_extension("bot_command_all.bot_commands_list_admin")
 bot.load_extension("bot_command_all.bot_commands_list")
