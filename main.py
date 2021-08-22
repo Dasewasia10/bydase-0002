@@ -88,33 +88,39 @@ async def on_command_error(ctx: commands.Context, error: commands.CommandError):
 async def on_message(message):
     await bot.process_commands(message)
     # Text on txt
-    with open('respon_and_answer/bad_word.txt', encoding="utf8") as file:
-        bad_word = file.read().split(",")
-    with open('respon_and_answer/praise_word.txt', encoding="utf8") as file2:
-        praise_word = file2.read().split(",")
+    with open('respon_and_answer/bad_word.txt', "r+", encoding="utf8") as file:
+        bad_word = file.read().splitlines()
+    with open('respon_and_answer/praise_word.txt', "r+", encoding="utf8") as file2:
+        praise_word = file2.read().splitlines()
+
+    alphabeth = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's',
+                 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
     if message.author != bot.user and not message.attachments and not message.embeds:
-        if all(word == lower(message.content) for word in bad_word):
-            emb = discord.Embed(colour=0xd80000,
-                                description=random.choice(
-                                    open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
-                                )
-            await message.channel.send(embed=emb)
+        if not lower(message.content.find(message.content)) == -1:
+            if lower(message.content) in alphabeth:
+                if "f" in lower(message.content):
+                    await message.channel.send("I'll pay more respect!")
+                else:
+                    return
 
-        elif all(word == lower(message.content) for word in praise_word):
-            emb = discord.Embed(colour=0xd80000,
-                                description=random.choice(
-                                    open('respon_and_answer/praise_answer.txt', encoding="utf8").readlines())
-                                )
-            await message.channel.send(embed=emb)
+            elif lower(message.content) in bad_word:  # Checks messages for matches in the wordlist.txt file
+                bad_answer = random.choice(open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
+                emb = discord.Embed(colour=discord.Colour.random(), description=bad_answer)
+                await message.channel.send(embed=emb)
+
+            elif lower(message.content) in praise_word:
+                praise_answer = random.choice(open('respon_and_answer/praise_answer.txt', encoding="utf8").readlines())
+                emb = discord.Embed(colour=0xd80000, description=praise_answer)
+                await message.channel.send(embed=emb)
 
     if message.author == bot.user or message.attachments or message.embeds:
         return
-      
+
     if bot.user.mentioned_in(message) and 'Hi' in message.content:
         await message.channel.send(':hand_splayed: Yo, what\'s up?')
 
-    if "tau aku" in lower(message.content):
+    if "tau aku" in message.content:
         await message.channel.send("TaU aKu")
     elif "apasih lol" in lower(message.content):
         await message.channel.send("ApAsIh LoL")
