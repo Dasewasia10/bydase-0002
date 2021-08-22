@@ -69,23 +69,13 @@ class CommandsAdmin(commands.Cog):
     @commands.command(aliases=['WORD'])
     async def word(self, ctx: commands.Context):
         msg = ":flag_id:Kata-kata yang dideteksi oleh bot ByDase.\n:flag_gb:Words detected by the ByDase bot."
-        with open('respon_and_answer/bad_word.txt', encoding="utf8") as file:
-            bad_word = list(file.readline())
+        with open('respon_and_answer/bad_word.txt', "r+", encoding="utf8") as file:
+            bad_word = file.read().splitlines()
         with open('respon_and_answer/praise_word.txt', encoding="utf8") as file2:
-            praise_word = list(file2.readline())
-        some_bad = ""
-        some_praise = ""
-        for word in bad_word:
-            some_bad += f"👉{word}\n"
-        for word in praise_word:
-            some_praise += f"👉{word}\n"
-        else:
-            embed = discord.Embed(title="Member on Dase's Place", description=msg,
-                                  colour=discord.Colour.random())
-            embed.add_field(name="Bad Word", value=some_bad, inline=True)
-            embed.add_field(name="Bad Word", value=some_praise, inline=True)
-            await ctx.author.send(embed=embed)
-
+            praise_word = file2.read().splitlines()
+        print(list(bad_word))
+        print(praise_word)
+        
     """Kick a member for spamming."""
 
     @commands.command(aliases=['SHUTDOWN', 'sd'])
