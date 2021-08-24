@@ -34,7 +34,7 @@ class CommandsAdmin(commands.Cog):
 
         await channel.send(f":flag_id: Selamat datang, {member.mention}! Semoga hari-harimu sangat hebat!\n"
                            f":flag_gb: Welcome, {member.mention}! Hope your days will great!")
-        await member.create_dm.send(member,
+        await member.create_dm(member,
                                     f':flag_id: Selamat datang di Dase\'s Place! Semoga hari-harimu sangat hebat!\n'
                                     f':flag_gb: Welcome to Dase\'s Place! Hope your days will great!')
 
@@ -47,7 +47,7 @@ class CommandsAdmin(commands.Cog):
 
         await channel.send(f":flag_id: Sayang sekali, {member.mention} telah meninggalkan kita.\n"
                            f":flag_gb: Too bad, {member.mention} has left us.")
-        await member.create_dm.send(member, f':flag_id: Semoga kehidupanmu menjadi semakin baik!\n'
+        await member.create_dm(member, f':flag_id: Semoga kehidupanmu menjadi semakin baik!\n'
                                             f':flag_gb: Wish for your good fortune!')
 
     # ## Command khusus Admin
