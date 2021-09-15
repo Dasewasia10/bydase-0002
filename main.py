@@ -32,6 +32,11 @@ def lower(message):
     return f'{message}'.lower()
 
 
+# Uppercase function
+def upper(message):
+    return f'{message}'.capitalize()
+
+  
 @bot.event
 async def on_ready():
     async with aiofiles.open("reaction_roles.txt", mode="a") as temp:
@@ -104,12 +109,12 @@ async def on_message(message):
                 else:
                     return
 
-            elif lower(message.content) in bad_word:  # Checks messages for matches in the wordlist.txt file
+            elif lower(message.content) in bad_word or upper(lower(message.content)) in bad_word:
                 bad_answer = random.choice(open('respon_and_answer/bad_answer.txt', encoding="utf8").readlines())
                 emb = discord.Embed(colour=discord.Colour.random(), description=bad_answer)
                 await message.channel.send(embed=emb)
 
-            elif lower(message.content) in praise_word:
+            elif lower(message.content) in praise_word or upper(lower(message.content)) in praise_word:
                 praise_answer = random.choice(open('respon_and_answer/praise_answer.txt', encoding="utf8").readlines())
                 emb = discord.Embed(colour=0xd80000, description=praise_answer)
                 await message.channel.send(embed=emb)
@@ -120,14 +125,25 @@ async def on_message(message):
     if bot.user.mentioned_in(message) and 'Hi' in message.content:
         await message.channel.send(':hand_splayed: Yo, what\'s up?')
 
-    if "tau aku" in message.content:
+    if lower(message.content) in ("tau aku", "ta uaku", "t auaku", "taua ku", "tauak u", "tauaku"):
         await message.channel.send("TaU aKu")
-    elif "apasih lol" in lower(message.content):
-        await message.channel.send("ApAsIh LoL")
 
+    if lower(message.content) in ("wibu", "wibu\""):
+        await message.channel.send("Iya, Wibu")
+
+    if lower(message.content) in ("apasi lol", "apasih lol"):
+        await message.channel.send("Apaan, dah?")
+
+    if lower(message.content) == "gilang":
+        await message.channel.send("hai, ganteng")
+
+    if lower(message.content) in ("itk", "psdm"):
+        await message.channel.send(f"Dih, {message.content}. Jauh\" sana kau!")
+
+    if lower(message.content) == "sosil":
+        await message.channel.send(f"Bacot!")
     else:
         return
-
 
 @bot.event
 async def on_raw_reaction_add(payload):
