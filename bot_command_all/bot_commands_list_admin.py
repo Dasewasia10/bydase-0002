@@ -27,28 +27,32 @@ class CommandsAdmin(commands.Cog):
 
     @commands.Cog.listener()
     async def on_member_join(self, member: discord.Member):
-        channel = self.bot.get_channel(877980286271496212)
+        stored_guild_id = 863445777682530344
+        channel = self.bot.get_channel(863445778420334617)
 
         if not channel:
             return
 
-        await channel.send(f":flag_id: Selamat datang, {member.mention}! Semoga hari-harimu sangat hebat!\n"
-                           f":flag_gb: Welcome, {member.mention}! Hope your days will great!")
-        await member.create_dm(member,
-                                    f':flag_id: Selamat datang di Dase\'s Place! Semoga hari-harimu sangat hebat!\n'
-                                    f':flag_gb: Welcome to Dase\'s Place! Hope your days will great!')
+        if member.guild.id == stored_guild_id:
+            await channel.send(f":flag_id: Selamat datang, {member.mention}! Semoga hari-harimu sangat hebat!\n"
+                               f":flag_gb: Welcome, {member.mention}! Hope your days will great!")
+            await member.create_dm.send(member,
+                                        f':flag_id: Selamat datang di Dase\'s Place! Semoga hari-harimu sangat hebat!\n'
+                                        f':flag_gb: Welcome to Dase\'s Place! Hope your days will great!')
 
     @commands.Cog.listener()
     async def on_member_remove(self, member: discord.Member):
-        channel = self.bot.get_channel(877980286271496212)
+        stored_guild_id = 863445777682530344
+        channel = self.bot.get_channel(863445778420334617)
 
         if not channel:
             return
 
-        await channel.send(f":flag_id: Sayang sekali, {member.mention} telah meninggalkan kita.\n"
-                           f":flag_gb: Too bad, {member.mention} has left us.")
-        await member.create_dm(member, f':flag_id: Semoga kehidupanmu menjadi semakin baik!\n'
-                                            f':flag_gb: Wish for your good fortune!')
+        if member.guild.id == stored_guild_id:
+            await channel.send(f":flag_id: Sayang sekali, {member.mention} telah meninggalkan kita.\n"
+                               f":flag_gb: Too bad, {member.mention} has left us.")
+            await member.create_dm.send(member, f':flag_id: Semoga kehidupanmu menjadi semakin baik!\n'
+                                                f':flag_gb: Wish for your good fortune!')
 
     # ## Command khusus Admin
 
